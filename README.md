@@ -1,5 +1,5 @@
 # SAP_PlantGenome
-A collection of scripts, command lines, and instructions for the analyses performed in !["Genome-Wide Association Studies of Grain Yield Components in Diverse Sorghum Germplasm"](doi:10.3835/plantgenome2015.09.0091)
+A collection of scripts, command lines, and instructions for the analyses performed in !["Genome-Wide Association Studies of Grain Yield Components in Diverse Sorghum Germplasm"](https://dl.sciencesocieties.org/publications/tpg/abstracts/9/2/plantgenome2015.09.0091)
 
 ###### Please Cite:
 Boyles, R. E., E. A. Cooper, M. T. Myers, Z. Brenton, B. L. Rauh, G. P. Morris, and S. Kresovich. 2016. Genome-Wide Association Studies of Grain Yield Components in Diverse Sorghum Germplasm. Plant Genome 9. 
