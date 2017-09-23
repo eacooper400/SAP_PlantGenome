@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eacooper400/formatConversion.git
+	branch = master
+	commit = 59c274945ef04762efbcf30a15133c018f90cc8f
+	parent = 977826fef9b0593cc0bd9df07c8ba0dfb8e7dec7
+	cmdver = 0.3.1
